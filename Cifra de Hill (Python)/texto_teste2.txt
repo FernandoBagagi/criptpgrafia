@@ -1,0 +1,3 @@
+0123456789AÁÂÃBCDEÉÊFGHIÍJKLMNOÓÔÕPQRSÀ{TUÚVWXYZaáâãbcdeéêfghiíjklmnoóôõpqrsà}tuúvwxyz,.;:!?@#$&*()_+-*/%|\'"
+Esse é um teste
+Com mais de uma linha

@@ -1,0 +1,9 @@
+Uma das linguagens de programação mais populares do mundo, o JavaScript não é da Microsoft, mas a empresa constantemente disponibiliza opções compatíveis com o código — muito por conta de sua grande adoção em desenvolvimento de sites interativos por toda internet.
+
+C++
+C++ é uma linguagem de programação utilizada pela Microsoft na construção de grande parte de suas ferramentas, além de ser uma opção preferida por muitos desenvolvedores de games para criação de títulos para diversos consoles.
+
+Interessados em aprender o C++ encontrarão na internet diversos repositórios de estudo oficiais da Microsoft, com exemplos de aplicações e documentações variadas mostrando o escopo dessa linguagem de programação, que ganhou uma versão da própria empresa na forma do Visual C++.
+
+C#
+Anunciada pela Microsoft em 2001 como uma “modernização” do C++, a linguagem de programação C# é utilizada principalmente para desenvolvimento de aplicações Web de alta performance além de componentes para serviços online XML, além de ter presença na criação de games a partir da engine (motor gráfico) Unity.
